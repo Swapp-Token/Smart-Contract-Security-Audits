@@ -1,4 +1,4 @@
-# 1.2.0 - The Swapp Foundation
+# 1.1.0 - The Swapp Foundation
 
 The Swapp Foundation is a small nonprofit association formed in January 2021. The SWAPP IOS and Android apps, smart contracts, and various related web apps and other products are being wholly funded and developed by The Swapp Foundation.
 

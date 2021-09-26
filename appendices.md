@@ -6,9 +6,9 @@ description: Terminology and other stuff you might want to know about.
 
 [**Appendix A**](https://swapp.org/whitepaper#sec-7-1)  **Source Code Audit**
 
-The Swapp Foundation has obtained a paid, professional audit of the SWAPP contract Solidity source code from [RD Auditors](https://drive.google.com/file/d/1-xDfof9K4JEi-AdFqZJijbxt_YOfy6dp/view?usp=sharing), a reputable auditing firm. The full audit report is included below.
+The Swapp Foundation has obtained a paid, professional audit of the SWAPP contract Solidity source code from [RD Auditors](https://drive.google.com/file/d/1-xDfof9K4JEi-AdFqZJijbxt_YOfy6dp/view?usp=sharing), Chainsulting, and the Certik reputable auditing firms. The full audit report is included below.
 
-Findings:  The auditors’ conclusion was, _“We have used all possible tests based on the given object. We found no critical, high, \[or\] medium level issues so it is good to go for production. Security state of reviewed contract is “secured”._
+RD Findings:  The auditors’ conclusion was, _“We have used all possible tests based on the given object. We found no critical, high, \[or\] medium level issues so it is good to go for production. Security state of reviewed contract is “secured”._
 
 [**Appendix B**](https://swapp.org/whitepaper#sec-7-2)  **Coding Standards**
 

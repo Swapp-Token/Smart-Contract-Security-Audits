@@ -2,7 +2,7 @@
 description: Staking | Yield Farming | Governance | Data Monetization
 ---
 
-# 1.1.0 - SWAPP Token Purpose
+# 1.0.0 - SWAPP Token
 
 **The purpose** of the SWAPP token is two-sided \(yes, like a coin!\)
 
@@ -18,7 +18,7 @@ description: Staking | Yield Farming | Governance | Data Monetization
 
 **SWAPP VS bonds and CDs:**
 
-SWAPP gives the staker complete flexibility in choosing exactly when to [withdraw their interest](scraping-stake-interest.md) during the life of the stake. You can withdraw interest daily, irregularly, wait until maturity, or whatever you like!
+SWAPP gives the staker complete flexibility in choosing exactly when to [withdraw their interest]() during the life of the stake. You can withdraw interest daily, irregularly, wait until maturity, or whatever you like!
 
 SWAPP stakes have higher return, much lower risk \(due to being decentralized and trustless\), and far higher flexibility than both bonds and CDs. No more trusting banks and governments to stay solvent and not change their rules. No more worrying that a bond issuer may default on you.
 

@@ -2,19 +2,23 @@
 description: '"Blockchain Your Data" with SWAPP'
 ---
 
-# 1.0.0 - Introducing SWAPP
+# Cross-chain SWAPP Protocol
 
+![](.gitbook/assets/bg-fb-google-play-banner.png)
 
+**SWAPP Protocol** is the future of data. It's time to take back control over what happens with your personal information, and Swapp will provide a decentralized marketplace that rewards you for it! 
 
-![](.gitbook/assets/screen-shot-2.jpg)
+Swapp is a company that helps you get paid for your data. There are many people who use the internet every day, but they don't get paid for it. Swapp helps these people. It uses blockchain technology to make data more safe and private. 
 
-**SWAPP Protocol** is an Ethereum blockchain ERC-20 and BEP-20 smart contract. SWAPP is a decentralized, fairly launched utility token used to both facilitate yield farming rewards in the Swapp DeFi platform as well as serve as the form of rewards within the Swapp smartphone app \(on ios and android\).
+The company's goal is to put power back into the hands of each individual person, because that's where it belongs. Swapp is changing the way people earn money. People will get what they deserve for their data that they own, and there won't be a middleman to take it. Swapp pays people in cryptocurrency and also give them privacy when using their data.
 
-**Built on Ethereum, now also available on Binance Smart Chain**
+**SWAPP ECOSYSTEM** 
 
-SWAPP also exists on Binance Smart Chain as a [BEP-20 token](https://bscscan.com/address/0x0efe961c733ff46ce34c56a73eba0c6a0e18e0f5) and can be traded on [PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0x0efe961c733ff46ce34c56a73eba0c6a0e18e0f5). There are plans to expand SWAPP on to additional chains including Polygon, Cronos\(crypto.com\), and others.
+\*\*\*\*
 
-This document is a general technical specification of the contract and its functionality.
+is an Ethereum blockchain ERC-20 and BEP-20 smart contract. SWAPP is a decentralized, fairly launched utility token used to both facilitate yield farming rewards in the Swapp DeFi platform as well as serve as the form of rewards within the Swapp smartphone app \(on ios and android\).
+
+\*\*\*\*
 
 **Our Mission**
 

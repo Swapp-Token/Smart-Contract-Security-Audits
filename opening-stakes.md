@@ -1,4 +1,4 @@
-# 2.3.8 - Opening Stakes
+# 2.3.6.1 - Opening Stakes
 
 When a user opens a new stake, they choose an amount of SWAPP to stake, and a stake length in days, weeks, months, or years. The minimum stake amount is 0.000000000001 SWAPP \(1000000 TESLA\). The minimum stake length is one day, and the maximum stake length is 60 epochs \(roughly 5 years\).
 
@@ -8,5 +8,9 @@ EXAMPLE: User creates stake for 1 year \(12 epochs\). User can add to \(top up\)
 
 Pending stakes become “Active” status once the deposit is made. At this point, closing the stake before it reaches “Mature” status will incur a penalty. The maximum penalty would occur if the user cashes out during the same epoch of the deposit \(100% penalty\). For that reason, the "Withdraw" button is disabled during the first epoch the user enters the pool. The penalty slope is a straight line downward, meaning the longer the stake runs, the less the penalty is, should the user need to break the stake. Example:  if the user cashes out 50% of the way through the term of the stake, the penalty would be roughly 50% of the principal originally deposited. It is important to plan properly and to only stake for a period which you are willing to stay vested.
 
-When a stake is opened, the SWAPP tokens staked are actually burned by the contract and converted into theoretical ["INTR$T"](shares-and-interest.md) These shares exist for the life of the stake. Once the stake is closed, the [INTR$T](shares-and-interest.md) is destroyed, and SWAPP is minted back to the user \(along with any interest added and penalties deducted\).
+When a stake is opened, the SWAPP tokens staked are actually burned by the contract until stake matures or stake owner un-stakes. SWAPP have special [burn dashboard](https://dapp.swapp.ee/burn) which you could track the token burns
+
+![SWAPP Burn Dashboard](.gitbook/assets/screen-shot-2021-09-26-at-3.15.47-pm.png)
+
+
 

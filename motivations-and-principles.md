@@ -1,4 +1,4 @@
-# 1.3.0 - Motivations & Principles
+# 1.2.0 - Motivations & Principles
 
 **Our Mission**
 
