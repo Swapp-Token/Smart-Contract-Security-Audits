@@ -14,21 +14,21 @@ Anyone can become a referral partner by simply navigating to the Swapp dashboard
 
 **\*\*\***_Up to 10% Referral Bonus, paid residually for up to 5 full years\*\*\*_
 
-**Stablecoin Pool \(USDC\|DAI\|USDT\)** 
+**Stablecoin Pool \(USDC\|DAI\|USDT\)**
 
-10% residual referral bonus on all direct referrals 
-
-\*5% residual referral bonus on all 2nd level referrals Program runs for 2 full years \( discontinued, only was available first 3 months of token launch. All users who had second levels are grandfathered\)
-
-**wBTC/SWAPP Pool:** 
-
-10% residual referral bonus on all direct referrals 
+10% residual referral bonus on all direct referrals
 
 \*5% residual referral bonus on all 2nd level referrals Program runs for 2 full years \( discontinued, only was available first 3 months of token launch. All users who had second levels are grandfathered\)
 
-**Swapp Staking Pool:** 
+**wBTC/SWAPP Pool:**
 
-10% residual referral bonus on all direct referrals 
+10% residual referral bonus on all direct referrals
+
+\*5% residual referral bonus on all 2nd level referrals Program runs for 2 full years \( discontinued, only was available first 3 months of token launch. All users who had second levels are grandfathered\)
+
+**Swapp Staking Pool:**
+
+10% residual referral bonus on all direct referrals
 
 \*5% residual referral bonus on all 2nd level referrals Program runs for 5 full years \( discontinued, only was available first 3 months of token launch. All users who had second levels are grandfathered\)
 

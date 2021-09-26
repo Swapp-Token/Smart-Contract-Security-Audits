@@ -2,19 +2,11 @@
 
 ## Decentralized Finance
 
-
-
 **Inline DEX interaction Capability**
-
-
-
-
 
 **SWAPP Cross-Chain SWAPP Bridge**
 
 \*\*\*\*
-
-
 
 **$SWAPP Staking Pool by Maturity dates**
 

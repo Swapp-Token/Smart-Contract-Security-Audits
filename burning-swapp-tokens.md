@@ -12,5 +12,3 @@ During first 18-36 months: 100% of interest earned by Swapp platform's secondary
 
 ![SWAPP Burn Dashboard](.gitbook/assets/burn-screen.jpg)
 
-
-

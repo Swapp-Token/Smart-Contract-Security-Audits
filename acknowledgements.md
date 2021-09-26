@@ -9,5 +9,3 @@ The Swapp Foundation would like to sincerely thank the following people and grou
 * [**Truffle Blockchain Group**](https://www.trufflesuite.com/) — for your development and support of the Truffle Suite, which has helped speed and simplify development of SWAPP and many other smart contracts, interfaces, and testing thereof.
 * [**The SWAPP Telegram crowd**](https://t.me/swapptoken) — for your steady stream of valuable ideas, constructive criticism, honest feedback, witty banter, and comic relief throughout the design and development process.
 
-
-

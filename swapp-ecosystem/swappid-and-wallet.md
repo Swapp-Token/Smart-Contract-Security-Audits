@@ -8,5 +8,5 @@ Digital ID, that will work as user’s permission-less credentials, which are go
 
 **SWAPPID WALLET**
 
-**SWAPPID Wallets** are unified and recoverable wallets that allow users to have all their wallets and assets under one digital ID. Users will be able to control all their digital assets such as NFTs, Game Assets \(NFT based\), Crypto currencies across all chains, User Data and documents etc under One Digital ID and still be anonymous, which is crucial in decentralized environments. 
+**SWAPPID Wallets** are unified and recoverable wallets that allow users to have all their wallets and assets under one digital ID. Users will be able to control all their digital assets such as NFTs, Game Assets \(NFT based\), Crypto currencies across all chains, User Data and documents etc under One Digital ID and still be anonymous, which is crucial in decentralized environments.
 

@@ -4,13 +4,13 @@ description: Terminology and other stuff you might want to know about.
 
 # 7.0.0 - Appendix
 
-[**Appendix A**](https://swapp.org/whitepaper#sec-7-1)  **Source Code Audit**
+[**Appendix A**](https://swapp.org/whitepaper#sec-7-1) **Source Code Audit**
 
 The Swapp Foundation has obtained a paid, professional audit of the SWAPP contract Solidity source code from [RD Auditors](https://drive.google.com/file/d/1-xDfof9K4JEi-AdFqZJijbxt_YOfy6dp/view?usp=sharing), Chainsulting, and the Certik reputable auditing firms. The full audit report is included below.
 
-RD Findings:  The auditors’ conclusion was, _“We have used all possible tests based on the given object. We found no critical, high, \[or\] medium level issues so it is good to go for production. Security state of reviewed contract is “secured”._
+RD Findings: The auditors’ conclusion was, _“We have used all possible tests based on the given object. We found no critical, high, \[or\] medium level issues so it is good to go for production. Security state of reviewed contract is “secured”._
 
-[**Appendix B**](https://swapp.org/whitepaper#sec-7-2)  **Coding Standards**
+[**Appendix B**](https://swapp.org/whitepaper#sec-7-2) **Coding Standards**
 
 * The SWAPP contract is written entirely in Solidity and compiled with solc 0.7.2.
 * The code should adhere to the formats prescribed by the [style guide](https://solidity.readthedocs.io/en/v0.7.2/style-guide.html) section of in the official [Solidity 0.7.2 documentation](https://solidity.readthedocs.io/en/v0.7.2/).
@@ -19,7 +19,7 @@ RD Findings:  The auditors’ conclusion was, _“We have used all possible test
 * Function and variable names should convey their purpose and usage as clearly and tersely as possible, in plain English. Avoid using digits, unnecessary abbreviations, acronyms, shorthand, or slang.
 * Functions should be as short as is practical. They should do what their name implies, and not much else. A good rule of thumb is that a function should try to be viewable in its entirety on a typical monitor, at a typical font size, if at all possible.
 
-[**Appendix C**](https://swapp.org/whitepaper#sec-7-3)  **Terminology**
+[**Appendix C**](https://swapp.org/whitepaper#sec-7-3) **Terminology**
 
 * SWAPP — the utility token and smart contract described here.
 * TESLA— the base unit of the SWAPP token, similar to wei for ETH, or satoshi for BTC. One SWAPP equals one quintillion TESLA \(1,000,000,000,000,000,000\).

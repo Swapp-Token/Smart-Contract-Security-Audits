@@ -13,8 +13,7 @@ The penalty deducted from the principal \(stakedSwapp\) when closing an Active s
 
 If the stake is one epoch\(28days\) long, then the user only may un-stake after epoch ends.
 
-If the stake is two or more epochs long:  
-
+If the stake is two or more epochs long:
 
 $$
 penaltyAmount = stakedSwapp × ( ((daysLeft – 1) / (stakedDays – 1)))

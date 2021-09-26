@@ -6,9 +6,9 @@ description: Earn rewards by referring new users to Swapp.
 
 ATTENTION: The SWAPP referral link and cookie system is **ALREADY LIVE!** You can start spreading your ref link today and building a base of referred users well before contract launch. So, do yourself a favor and start spreading your referral link to show others how to stake.
 
-Format: _**https://dapp.swapp.ee/?w=YOURETHWALLETADDRESS​**_
+Format: [https://dapp.swapp.ee/?w=YOURETHWALLETADDRESS​](https://dapp.swapp.ee/?w=YOURETHWALLETADDRESS​)
 
-Anyone may use a referral link to direct users to the SWAPP website, this WhitePaper, the forthcoming official contract web interface, or any other page on the [**swapp.ee**](https://swapp.ee) ****domain or its subdomains, in order to potentially earn various referral bonus SWAPP from those users’ contract interactions.
+Anyone may use a referral link to direct users to the SWAPP website, this WhitePaper, the forthcoming official contract web interface, or any other page on the [**swapp.ee**](https://swapp.ee) _\*\*_domain or its subdomains, in order to potentially earn various referral bonus SWAPP from those users’ contract interactions.
 
 When a user clicks such a ref link, the Swapp website stores a cookie on their browser, containing the referrer’s ETH address from the ref link. If that user later sends ETH to reserve SWAPP during the auction phase, or starts a stake at least 1yr or longer, the cookie will cause the contract to mark that auction phase reservation or stake as having been referred by that referrer.
 
