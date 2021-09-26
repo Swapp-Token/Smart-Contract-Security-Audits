@@ -12,13 +12,11 @@ Swapp is a company that helps you get paid for your data. There are many people 
 
 The company's goal is to put power back into the hands of each individual person, because that's where it belongs. Swapp is changing the way people earn money. People will get what they deserve for their data that they own, and there won't be a middleman to take it. Swapp pays people in cryptocurrency and also give them privacy when using their data.
 
-**SWAPP ECOSYSTEM**
 
-\*\*\*\*
 
 is an Ethereum blockchain ERC-20 and BEP-20 smart contract. SWAPP is a decentralized, fairly launched utility token used to both facilitate yield farming rewards in the Swapp DeFi platform as well as serve as the form of rewards within the Swapp smartphone app \(on ios and android\).
 
-\*\*\*\*
+
 
 **Our Mission**
 
