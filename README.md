@@ -16,7 +16,7 @@ is an Ethereum blockchain ERC-20 and BEP-20 smart contract. SWAPP is a decentral
 
 **Our Mission**
 
-Swapp is leading a massive [movement](swapp-token-purpose/motivations-and-principles.md) to disrupt the $1.2T/yr data industry. For far too long, tech giants like Google and Facebook have tracked your every move, earned _**billions**_ per year in monetization, but have shared none of that revenue with you, _**the rightful owner.**_
+Swapp is leading a massive [movement](motivations-and-principles.md) to disrupt the $1.2T/yr data industry. For far too long, tech giants like Google and Facebook have tracked your every move, earned _**billions**_ per year in monetization, but have shared none of that revenue with you, _**the rightful owner.**_
 
 **Our Motivation**
 

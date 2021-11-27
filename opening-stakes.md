@@ -10,4 +10,4 @@ Pending stakes become “Active” status once the deposit is made. At this poin
 
 When a stake is opened, the SWAPP tokens staked are actually burned by the contract until stake matures or stake owner un-stakes. SWAPP have special [burn dashboard](https://dapp.swapp.ee/burn) which you could track the token burns
 
-![SWAPP Burn Dashboard](../../../.gitbook/assets/screen-shot-2021-09-26-at-3.15.47-pm.png)
+![SWAPP Burn Dashboard](.gitbook/assets/screen-shot-2021-09-26-at-3.15.47-pm.png)

@@ -11,7 +11,7 @@ description: Staking | Yield Farming | Governance | Data Monetization
 
 **Core DeFi Capabilities - Yield Farming and Staking**
 
-* ****[Staking ](../general-properties/circulation-epoch/staking/)on the SWAPP platform — is similar to both bonds and CDs (certificates of deposit): rewarding the holder with earned interest in exchange for locking up their funds for a period of time. SWAPP incorporates some of the features from both of these traditional instruments but improves greatly upon them.
+* ****[Staking ](staking.md)on the SWAPP platform — is similar to both bonds and CDs (certificates of deposit): rewarding the holder with earned interest in exchange for locking up their funds for a period of time. SWAPP incorporates some of the features from both of these traditional instruments but improves greatly upon them.
 * CDs tend to be lower risk, lower return, and only pay out interest on their maturity date.
 * Bonds tend to be somewhat higher risk, higher return, and pay out interest regularly on a set schedule (typically every six months).
 * SWAPP is most similar to a bond, in that it earns relatively high interest, but allows users to withdraw it whenever they want.

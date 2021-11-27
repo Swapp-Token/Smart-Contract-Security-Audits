@@ -8,11 +8,14 @@ description: Ecosystem and Org Structure
 
 ## Swapp Ecosystem is consists of :
 
-* SWAPP Data platform for Privacy and Monetization
-* SWAPPID & Wallets
-* SWAPP NFT MarketPlace
-* SWAPP DEFI DAPP
-* SWAPP Banking - includes Exchange, Cards, and Bank Accounts.
+* [SWAPP Data platform for Privacy and Monetization](swapp-data-app-and-platform.md)
+* [SWAPP DEFI (DAPP)](swapp-defi-dapp.md)
+* [DEX (Decentralized exchange)](decentralized-exchange.md)
+* [Swapp token Bridge](bridge.md)&#x20;
+* [SWAPP NFT MarketPlace](swapp-nft-marketplace.md)
+* [SWAPPID & Wallets](swappid-and-wallet.md)
+* [SWAPP Banking - includes Exchange, Cards, and Bank Accounts.](swapp-banking.md)
+* Browser Extension
 
 ## Organization Structure
 
@@ -23,4 +26,3 @@ The team is made up of people who know a lot about finance, cyber-forensics, tec
 ### Roadmap
 
 ![](../.gitbook/assets/roadmap.png)
-

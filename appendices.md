@@ -24,7 +24,7 @@ RD Findings: The auditors’ conclusion was, _“We have used all possible tests
 * SWAPP — the utility token and smart contract described here.
 * TESLA— the base unit of the SWAPP token, similar to wei for ETH, or satoshi for BTC. One SWAPP equals one quintillion TESLA (1,000,000,000,000,000,000).
 * [Stake](https://swapp.org/whitepaper#sec-2-3-5) — a time locked deposit of SWAPP which earns interest over time.
-* [Auction Phase](general-properties/liquidity-transformer-epoch/) — the first thirty(30) days of the contract’s existence, during which users may deposit ETH to reserve part of the initial supply of SWAPP.
+* [Auction Phase](liquidity-transformer-epoch.md) — the first thirty(30) days of the contract’s existence, during which users may deposit ETH to reserve part of the initial supply of SWAPP.
 * [Circulation Epoch](https://swapp.org/whitepaper#sec-2-3) — the epoch immediately following the end of the LT Epoch, during which users may mint their tokens reserved in the LT Epoch, transfer tokens, stake tokens, etc.
 * Uniswap — a decentralized, non-custodial ERC-20 token and ETH exchange on the Ethereum blockchain. The SWAPP contract is integrated directly with Uniswap. General info on Uniswap is [here](https://uniswap.org), Uniswap exchange stats are [here](https://uniswap.info), and the main exchange is [here](https://app.uniswap.org).
 * ERC-20 — a standard interface for Ethereum smart contract tokens. ERC stands for “Ethereum Request for Comment”. The original EIP (Ethereum Improvement Proposal) describing ERC-20 tokens can be found [here](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md).
