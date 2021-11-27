@@ -1,10 +1,10 @@
 ---
-description: Ecosystem and Org Structure
+description: Ecosystem and Organization Structure
+cover: ../.gitbook/assets/AAAAAAAAAAA.png
+coverY: 54.99443826473855
 ---
 
 # SWAPP ECOSYSTEM
-
-![SWAPP ECOSYSTEM](../.gitbook/assets/preview.png)
 
 ## Swapp Ecosystem is consists of :
 
