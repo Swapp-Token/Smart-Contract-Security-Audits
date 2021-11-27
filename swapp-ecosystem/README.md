@@ -6,7 +6,9 @@ coverY: 54.99443826473855
 
 # SWAPP ECOSYSTEM
 
-## Swapp Ecosystem is consists of :
+![](../.gitbook/assets/AAAAAAAAAAA.png)
+
+## Swapp Ecosystem is consists of:
 
 * [SWAPP Data platform for Privacy and Monetization](swapp-data-app-and-platform.md)
 * [SWAPP DEFI (DAPP)](swapp-defi-dapp.md)
@@ -15,7 +17,7 @@ coverY: 54.99443826473855
 * [SWAPP NFT MarketPlace](swapp-nft-marketplace.md)
 * [SWAPPID & Wallets](swappid-and-wallet.md)
 * [SWAPP Banking - includes Exchange, Cards, and Bank Accounts.](swapp-banking.md)
-* Browser Extension
+* [Browser Extension](browser-extensions.md)
 
 ## Organization Structure
 
