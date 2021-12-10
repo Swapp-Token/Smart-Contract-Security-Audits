@@ -6,7 +6,7 @@ description: https://dapp.swapp.ee/bridge
 
 We have officially opened our bridges between Ethereum, Binance Smart Chain and Cronos!&#x20;
 
-### To learn how to use the bridge click [here](https://youtu.be/hXi7n0AxGyI).
+### To learn how to use the bridge watch our youtube video [here](https://youtu.be/hXi7n0AxGyI).
 
 ## Fees
 
